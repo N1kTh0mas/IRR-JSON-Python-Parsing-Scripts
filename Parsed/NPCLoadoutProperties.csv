@@ -1,0 +1,57 @@
+NPCName,Slot,WeaponMags,RandomItems,RandomSpawnChance,MinItemAmt,MaxItemAmt,MinItemValue,MaxItemValue,AddSameItem,ForceRarity,ForceVital,SupportFactionCount,AttachmentMinDepth,AttachmentMaxDepth
+AI Boss UICS,Rifle 1,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,3
+AI Boss UICS,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,2
+AI Boss UICS,Pockets,False,True,1.0,1,2,-1.0,3.4028235e+38,True,False,True,3,1,2
+AI Boss UICS,Helmet,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,2
+AI Guard UICS,Rifle 1,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,1
+AI Guard UICS,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Guard UICS,Pockets,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Guard UICS,Backpack,False,True,0.6,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Guard UICS,Helmet,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS A,Rifle 1,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,1
+AI Patrol UICS A,Plate Carrier,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS A,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS A,Pockets,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS A,Backpack,False,True,0.6,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS A,Helmet,False,True,0.4,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS B,Pistol,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,1
+AI Patrol UICS B,Plate Carrier,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS B,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS B,Pockets,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS B,Backpack,False,True,0.6,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol UICS B,Helmet,False,True,0.4,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Sniper UICS,Rifle 1,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,1
+AI Sniper UICS,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Sniper UICS,Pockets,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Sniper UICS,Helmet,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Boss VLF,Rifle 1,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,2
+AI Boss VLF,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,2
+AI Boss VLF,Pockets,False,True,1.0,1,2,-1.0,3.4028235e+38,True,False,True,3,1,2
+AI Boss VLF,Helmet,False,False,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,2
+AI Guard VLF,Rifle 1,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,1
+AI Guard VLF,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Guard VLF,Pockets,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Guard VLF,Backpack,False,True,0.6,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Guard VLF,Helmet,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF A,Rifle 1,False,True,1.0,1,1,-1.0,3.4028235e+38,True,False,True,3,1,1
+AI Patrol VLF A,Plate Carrier,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF A,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF A,Pockets,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF A,Backpack,False,True,0.6,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF A,Helmet,False,True,0.4,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF B,Pistol,False,True,1.0,1,1,-1.0,3.4028235e+38,True,False,True,3,1,1
+AI Patrol VLF B,Plate Carrier,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF B,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF B,Pockets,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF B,Backpack,False,True,0.6,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Patrol VLF B,Helmet,False,True,0.4,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Sniper VLF,Rifle 1,False,True,1.0,3,5,-1.0,3.4028235e+38,True,False,True,3,1,1
+AI Sniper VLF,Rig,True,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Sniper VLF,Pockets,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+AI Sniper VLF,Helmet,False,True,1.0,3,5,-1.0,3.4028235e+38,False,False,True,3,1,2
+,,,,,,,,,,,,,,
+NPCName,Slot,Tag,MinAmt,MaxAmt
+AI Boss UICS,Pockets,Inventory.Items.Currency.Marked Coin,50.0,200.0
+AI Boss UICS,Pockets,Inventory.Items.Currency.Cash,250.0,2500.0
+AI Boss VLF,Pockets,Inventory.Items.Currency.Marked Coin,50.0,200.0
+AI Boss VLF,Pockets,Inventory.Items.Currency.Cash,250.0,2500.0

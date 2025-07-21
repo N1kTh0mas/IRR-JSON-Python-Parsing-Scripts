@@ -1,0 +1,8 @@
+Tag,Multiplier
+Default,0.6
+Inventory.Items.Weapons,0.35
+Inventory.Items.Attachments,0.45
+Inventory.Items.Gear,0.4
+Inventory.Items.Barter,0.8
+Inventory.Items.Ammunition,0.4
+Inventory.Items.Currency,1.0
