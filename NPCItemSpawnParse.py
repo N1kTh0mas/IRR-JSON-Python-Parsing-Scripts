@@ -93,15 +93,17 @@ for filePath in jsonFileList:
                 "MaxAmt" : OR_Max
             })
 
-    DataItem = data[0]['Properties']['DefaultItemsContainers']
 
-    for item in DataItem:
-        for element in item['RandomItemParameters']['ItemSpawnChances']:
+    #DataItem = data[0]['Properties']['DefaultItemsContainers']
+
+        
+        for element in line['RandomItemParameters']['ItemSpawnChances']:
             Slot = SlotLookup.get(line['ContainerIndex'],"Error")
             TempTag = element['Key']['TagName']
             TagSplit = TempTag.split('.')
             TagSplit.remove("Inventory")
             Tag = ".".join(TagSplit)
+            #print(line['ContainerIndex'])
 
             Weight = element['Value']
             
@@ -112,7 +114,7 @@ for filePath in jsonFileList:
                 "Tag":  Tag,
                 "Weight" : Weight
             })
-        for element in item['RandomItemParameters']['RarityChanceDrop']:
+        for element in line['RandomItemParameters']['RarityChanceDrop']:
             TempTag = element['Key']['TagName']
             Tag = TempTag[len(TempTag)-1]
 
@@ -124,7 +126,7 @@ for filePath in jsonFileList:
                 "Tag":  Tag,
                 "Weight" : Weight
             })
-
+        
 
 
 

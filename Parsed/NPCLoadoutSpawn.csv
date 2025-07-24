@@ -1,297 +1,297 @@
 NPCName,Slot,Type,Tag,Weight
-AI Boss UICS,Helmet,Item,Items.Weapons.Dmr.FN SCAR-H,1.0
-AI Boss UICS,Helmet,Rarity,1,0.0
-AI Boss UICS,Helmet,Rarity,2,0.5
-AI Boss UICS,Helmet,Rarity,3,1.0
-AI Boss UICS,Helmet,Rarity,4,1.0
-AI Boss UICS,Helmet,Rarity,4,1.0
-AI Boss UICS,Helmet,Item,Items.Currency.Cash,2.0
-AI Boss UICS,Helmet,Item,Items.Keys,0.2
-AI Boss UICS,Helmet,Item,Items.Currency.Marked Coin,2.0
-AI Boss UICS,Helmet,Rarity,4,1.0
+AI Boss UICS,Rifle 1,Item,Items.Weapons.Dmr.FN SCAR-H,1.0
+AI Boss UICS,Rifle 1,Rarity,1,0.0
+AI Boss UICS,Rifle 1,Rarity,2,0.5
+AI Boss UICS,Rifle 1,Rarity,3,1.0
+AI Boss UICS,Rifle 1,Rarity,4,1.0
+AI Boss UICS,Rig,Rarity,4,1.0
+AI Boss UICS,Pockets,Item,Items.Currency.Cash,2.0
+AI Boss UICS,Pockets,Item,Items.Keys,0.2
+AI Boss UICS,Pockets,Item,Items.Currency.Marked Coin,2.0
+AI Boss UICS,Pockets,Rarity,4,1.0
 AI Boss UICS,Helmet,Item,Items.Gear.Helmet.Super High Cut Ops Core Fast MT V1 Helmet,0.0
 AI Boss UICS,Helmet,Rarity,1,0.0
 AI Boss UICS,Helmet,Rarity,2,0.0
 AI Boss UICS,Helmet,Rarity,3,0.0
 AI Boss UICS,Helmet,Rarity,4,1.0
-AI Guard UICS,Helmet,Item,Items.Weapons.Smg.MP5,1.0
-AI Guard UICS,Helmet,Item,Items.Weapons.Smg.MP5k,1.0
-AI Guard UICS,Helmet,Item,Items.Weapons.Smg.MP5SD,1.0
-AI Guard UICS,Helmet,Item,Items.Weapons.Rifle.Colt M4A1,3.0
-AI Guard UICS,Helmet,Item,Items.Weapons.Rifle.Sig Sauer MCX Virtus,0.1
-AI Guard UICS,Helmet,Item,Items.Weapons.Rifle.AUG A3,0.3
-AI Guard UICS,Helmet,Item,Items.Weapons.Rifle.FN SCAR-L,0.2
-AI Guard UICS,Helmet,Item,Items.Weapons.Smg.KRISS Vector 45ACP,0.1
-AI Guard UICS,Helmet,Item,Items.Weapons.Rifle.AK-101,1.0
-AI Guard UICS,Helmet,Item,Items.Weapons.Rifle.AK-102,1.0
-AI Guard UICS,Helmet,Item,Items.Weapons.Rifle.Sig Sauer MCX Rattler,0.2
-AI Guard UICS,Helmet,Rarity,1,1.0
-AI Guard UICS,Helmet,Rarity,2,0.25
-AI Guard UICS,Helmet,Rarity,3,0.1
-AI Guard UICS,Helmet,Rarity,4,0.0
-AI Guard UICS,Helmet,Item,Items.Gear.Armored Rig,0.0
-AI Guard UICS,Helmet,Rarity,1,0.8
-AI Guard UICS,Helmet,Rarity,2,0.5
-AI Guard UICS,Helmet,Rarity,3,0.4
-AI Guard UICS,Helmet,Rarity,4,0.0
-AI Guard UICS,Helmet,Item,Items.Barter,5.0
-AI Guard UICS,Helmet,Item,Items.Keys,0.2
-AI Guard UICS,Helmet,Item,Items.Medical,1.5
-AI Guard UICS,Helmet,Rarity,1,0.5
-AI Guard UICS,Helmet,Rarity,2,1.0
-AI Guard UICS,Helmet,Rarity,3,0.0
-AI Guard UICS,Helmet,Rarity,4,0.0
-AI Guard UICS,Helmet,Item,Items.Gear.Backpack,0.0
-AI Guard UICS,Helmet,Rarity,1,1.0
-AI Guard UICS,Helmet,Rarity,2,0.5
-AI Guard UICS,Helmet,Rarity,3,0.0
-AI Guard UICS,Helmet,Rarity,4,0.0
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Smg.MP5,1.0
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Smg.MP5k,1.0
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Smg.MP5SD,1.0
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Rifle.Colt M4A1,3.0
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Rifle.Sig Sauer MCX Virtus,0.1
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Rifle.AUG A3,0.3
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Rifle.FN SCAR-L,0.2
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Smg.KRISS Vector 45ACP,0.1
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Rifle.AK-101,1.0
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Rifle.AK-102,1.0
+AI Guard UICS,Rifle 1,Item,Items.Weapons.Rifle.Sig Sauer MCX Rattler,0.2
+AI Guard UICS,Rifle 1,Rarity,1,1.0
+AI Guard UICS,Rifle 1,Rarity,2,0.25
+AI Guard UICS,Rifle 1,Rarity,3,0.1
+AI Guard UICS,Rifle 1,Rarity,4,0.0
+AI Guard UICS,Rig,Item,Items.Gear.Armored Rig,0.0
+AI Guard UICS,Rig,Rarity,1,0.8
+AI Guard UICS,Rig,Rarity,2,0.5
+AI Guard UICS,Rig,Rarity,3,0.4
+AI Guard UICS,Rig,Rarity,4,0.0
+AI Guard UICS,Pockets,Item,Items.Barter,5.0
+AI Guard UICS,Pockets,Item,Items.Keys,0.2
+AI Guard UICS,Pockets,Item,Items.Medical,1.5
+AI Guard UICS,Pockets,Rarity,1,0.5
+AI Guard UICS,Pockets,Rarity,2,1.0
+AI Guard UICS,Pockets,Rarity,3,0.0
+AI Guard UICS,Pockets,Rarity,4,0.0
+AI Guard UICS,Backpack,Item,Items.Gear.Backpack,0.0
+AI Guard UICS,Backpack,Rarity,1,1.0
+AI Guard UICS,Backpack,Rarity,2,0.5
+AI Guard UICS,Backpack,Rarity,3,0.0
+AI Guard UICS,Backpack,Rarity,4,0.0
 AI Guard UICS,Helmet,Item,Items.Gear.Helmet,0.0
 AI Guard UICS,Helmet,Rarity,1,1.0
 AI Guard UICS,Helmet,Rarity,2,0.5
 AI Guard UICS,Helmet,Rarity,3,0.05
 AI Guard UICS,Helmet,Rarity,4,0.0
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Smg.MP5,1.5
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Smg.MP5k,2.0
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Smg.MP5SD,1.5
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Rifle.Colt M4A1,3.0
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Rifle.AUG A3,0.5
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Rifle.AK-101,1.0
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Rifle.AK-102,1.0
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Smg.FN P90,0.2
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Smg.KRISS Vector 45ACP,0.1
-AI Patrol UICS A,Helmet,Item,Items.Weapons.Shotgun.Benelli M2,0.8
-AI Patrol UICS A,Helmet,Rarity,1,1.0
-AI Patrol UICS A,Helmet,Rarity,2,0.2
-AI Patrol UICS A,Helmet,Rarity,3,0.0
-AI Patrol UICS A,Helmet,Rarity,4,0.0
-AI Patrol UICS A,Helmet,Item,Items.Gear.Plate Carrier,0.0
-AI Patrol UICS A,Helmet,Rarity,1,1.0
-AI Patrol UICS A,Helmet,Rarity,2,0.2
-AI Patrol UICS A,Helmet,Rarity,3,0.0
-AI Patrol UICS A,Helmet,Rarity,4,0.0
-AI Patrol UICS A,Helmet,Item,Items.Gear.Unarmored Rig,0.0
-AI Patrol UICS A,Helmet,Rarity,1,1.0
-AI Patrol UICS A,Helmet,Rarity,2,0.2
-AI Patrol UICS A,Helmet,Rarity,3,0.0
-AI Patrol UICS A,Helmet,Rarity,4,0.0
-AI Patrol UICS A,Helmet,Item,Items.Barter,5.0
-AI Patrol UICS A,Helmet,Item,Items.Keys,0.1
-AI Patrol UICS A,Helmet,Item,Items.Medical,1.5
-AI Patrol UICS A,Helmet,Rarity,1,1.0
-AI Patrol UICS A,Helmet,Rarity,2,0.2
-AI Patrol UICS A,Helmet,Rarity,3,0.0
-AI Patrol UICS A,Helmet,Rarity,4,0.0
-AI Patrol UICS A,Helmet,Item,Items.Gear.Backpack,0.0
-AI Patrol UICS A,Helmet,Rarity,1,1.0
-AI Patrol UICS A,Helmet,Rarity,2,0.2
-AI Patrol UICS A,Helmet,Rarity,3,0.0
-AI Patrol UICS A,Helmet,Rarity,4,0.0
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Smg.MP5,1.5
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Smg.MP5k,2.0
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Smg.MP5SD,1.5
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Rifle.Colt M4A1,3.0
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Rifle.AUG A3,0.5
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Rifle.AK-101,1.0
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Rifle.AK-102,1.0
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Smg.FN P90,0.2
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Smg.KRISS Vector 45ACP,0.1
+AI Patrol UICS A,Rifle 1,Item,Items.Weapons.Shotgun.Benelli M2,0.8
+AI Patrol UICS A,Rifle 1,Rarity,1,1.0
+AI Patrol UICS A,Rifle 1,Rarity,2,0.2
+AI Patrol UICS A,Rifle 1,Rarity,3,0.0
+AI Patrol UICS A,Rifle 1,Rarity,4,0.0
+AI Patrol UICS A,Plate Carrier,Item,Items.Gear.Plate Carrier,0.0
+AI Patrol UICS A,Plate Carrier,Rarity,1,1.0
+AI Patrol UICS A,Plate Carrier,Rarity,2,0.2
+AI Patrol UICS A,Plate Carrier,Rarity,3,0.0
+AI Patrol UICS A,Plate Carrier,Rarity,4,0.0
+AI Patrol UICS A,Rig,Item,Items.Gear.Unarmored Rig,0.0
+AI Patrol UICS A,Rig,Rarity,1,1.0
+AI Patrol UICS A,Rig,Rarity,2,0.2
+AI Patrol UICS A,Rig,Rarity,3,0.0
+AI Patrol UICS A,Rig,Rarity,4,0.0
+AI Patrol UICS A,Pockets,Item,Items.Barter,5.0
+AI Patrol UICS A,Pockets,Item,Items.Keys,0.1
+AI Patrol UICS A,Pockets,Item,Items.Medical,1.5
+AI Patrol UICS A,Pockets,Rarity,1,1.0
+AI Patrol UICS A,Pockets,Rarity,2,0.2
+AI Patrol UICS A,Pockets,Rarity,3,0.0
+AI Patrol UICS A,Pockets,Rarity,4,0.0
+AI Patrol UICS A,Backpack,Item,Items.Gear.Backpack,0.0
+AI Patrol UICS A,Backpack,Rarity,1,1.0
+AI Patrol UICS A,Backpack,Rarity,2,0.2
+AI Patrol UICS A,Backpack,Rarity,3,0.0
+AI Patrol UICS A,Backpack,Rarity,4,0.0
 AI Patrol UICS A,Helmet,Item,Items.Gear.Helmet,0.0
 AI Patrol UICS A,Helmet,Rarity,1,1.0
 AI Patrol UICS A,Helmet,Rarity,2,0.2
 AI Patrol UICS A,Helmet,Rarity,3,0.0
 AI Patrol UICS A,Helmet,Rarity,4,0.0
-AI Patrol UICS B,Helmet,Item,Items.Weapons.Pistol.FN Five Seven,0.2
-AI Patrol UICS B,Helmet,Item,Items.Weapons.Pistol.P320,1.0
-AI Patrol UICS B,Helmet,Rarity,1,1.0
-AI Patrol UICS B,Helmet,Rarity,2,0.2
-AI Patrol UICS B,Helmet,Rarity,3,0.0
-AI Patrol UICS B,Helmet,Rarity,4,0.0
-AI Patrol UICS B,Helmet,Item,Items.Gear.Plate Carrier,0.0
-AI Patrol UICS B,Helmet,Rarity,1,1.0
-AI Patrol UICS B,Helmet,Rarity,2,0.2
-AI Patrol UICS B,Helmet,Rarity,3,0.0
-AI Patrol UICS B,Helmet,Rarity,4,0.0
-AI Patrol UICS B,Helmet,Item,Items.Gear.Unarmored Rig,0.0
-AI Patrol UICS B,Helmet,Rarity,1,1.0
-AI Patrol UICS B,Helmet,Rarity,2,0.2
-AI Patrol UICS B,Helmet,Rarity,3,0.0
-AI Patrol UICS B,Helmet,Rarity,4,0.0
-AI Patrol UICS B,Helmet,Item,Items.Barter,5.0
-AI Patrol UICS B,Helmet,Item,Items.Keys,0.1
-AI Patrol UICS B,Helmet,Item,Items.Medical,1.5
-AI Patrol UICS B,Helmet,Rarity,1,1.0
-AI Patrol UICS B,Helmet,Rarity,2,0.2
-AI Patrol UICS B,Helmet,Rarity,3,0.0
-AI Patrol UICS B,Helmet,Rarity,4,0.0
-AI Patrol UICS B,Helmet,Item,Items.Gear.Backpack,0.0
-AI Patrol UICS B,Helmet,Rarity,1,1.0
-AI Patrol UICS B,Helmet,Rarity,2,0.2
-AI Patrol UICS B,Helmet,Rarity,3,0.0
-AI Patrol UICS B,Helmet,Rarity,4,0.0
+AI Patrol UICS B,Pistol,Item,Items.Weapons.Pistol.FN Five Seven,0.2
+AI Patrol UICS B,Pistol,Item,Items.Weapons.Pistol.P320,1.0
+AI Patrol UICS B,Pistol,Rarity,1,1.0
+AI Patrol UICS B,Pistol,Rarity,2,0.2
+AI Patrol UICS B,Pistol,Rarity,3,0.0
+AI Patrol UICS B,Pistol,Rarity,4,0.0
+AI Patrol UICS B,Plate Carrier,Item,Items.Gear.Plate Carrier,0.0
+AI Patrol UICS B,Plate Carrier,Rarity,1,1.0
+AI Patrol UICS B,Plate Carrier,Rarity,2,0.2
+AI Patrol UICS B,Plate Carrier,Rarity,3,0.0
+AI Patrol UICS B,Plate Carrier,Rarity,4,0.0
+AI Patrol UICS B,Rig,Item,Items.Gear.Unarmored Rig,0.0
+AI Patrol UICS B,Rig,Rarity,1,1.0
+AI Patrol UICS B,Rig,Rarity,2,0.2
+AI Patrol UICS B,Rig,Rarity,3,0.0
+AI Patrol UICS B,Rig,Rarity,4,0.0
+AI Patrol UICS B,Pockets,Item,Items.Barter,5.0
+AI Patrol UICS B,Pockets,Item,Items.Keys,0.1
+AI Patrol UICS B,Pockets,Item,Items.Medical,1.5
+AI Patrol UICS B,Pockets,Rarity,1,1.0
+AI Patrol UICS B,Pockets,Rarity,2,0.2
+AI Patrol UICS B,Pockets,Rarity,3,0.0
+AI Patrol UICS B,Pockets,Rarity,4,0.0
+AI Patrol UICS B,Backpack,Item,Items.Gear.Backpack,0.0
+AI Patrol UICS B,Backpack,Rarity,1,1.0
+AI Patrol UICS B,Backpack,Rarity,2,0.2
+AI Patrol UICS B,Backpack,Rarity,3,0.0
+AI Patrol UICS B,Backpack,Rarity,4,0.0
 AI Patrol UICS B,Helmet,Item,Items.Gear.Helmet,0.0
 AI Patrol UICS B,Helmet,Rarity,1,1.0
 AI Patrol UICS B,Helmet,Rarity,2,0.2
 AI Patrol UICS B,Helmet,Rarity,3,0.0
 AI Patrol UICS B,Helmet,Rarity,4,0.0
-AI Sniper UICS,Helmet,Item,Items.Weapons.SniperRifle.SRS A2,0.25
-AI Sniper UICS,Helmet,Item,Items.Weapons.SniperRifle.Remington M700,5.0
-AI Sniper UICS,Helmet,Item,Items.Weapons.Dmr.FN SCAR-H,0.5
-AI Sniper UICS,Helmet,Rarity,1,1.0
-AI Sniper UICS,Helmet,Rarity,2,0.2
-AI Sniper UICS,Helmet,Rarity,3,1.0
-AI Sniper UICS,Helmet,Rarity,4,0.0
-AI Sniper UICS,Helmet,Item,Items.Gear.Armored Rig,0.0
-AI Sniper UICS,Helmet,Rarity,1,0.0
-AI Sniper UICS,Helmet,Rarity,2,0.5
-AI Sniper UICS,Helmet,Rarity,3,1.0
-AI Sniper UICS,Helmet,Rarity,4,0.0
-AI Sniper UICS,Helmet,Item,Items.Barter,5.0
-AI Sniper UICS,Helmet,Item,Items.Keys,0.1
-AI Sniper UICS,Helmet,Item,Items.Medical,1.0
-AI Sniper UICS,Helmet,Rarity,1,0.5
-AI Sniper UICS,Helmet,Rarity,2,0.5
-AI Sniper UICS,Helmet,Rarity,3,0.1
-AI Sniper UICS,Helmet,Rarity,4,0.0
+AI Sniper UICS,Rifle 1,Item,Items.Weapons.SniperRifle.SRS A2,0.25
+AI Sniper UICS,Rifle 1,Item,Items.Weapons.SniperRifle.Remington M700,5.0
+AI Sniper UICS,Rifle 1,Item,Items.Weapons.Dmr.FN SCAR-H,0.5
+AI Sniper UICS,Rifle 1,Rarity,1,1.0
+AI Sniper UICS,Rifle 1,Rarity,2,0.2
+AI Sniper UICS,Rifle 1,Rarity,3,1.0
+AI Sniper UICS,Rifle 1,Rarity,4,0.0
+AI Sniper UICS,Rig,Item,Items.Gear.Armored Rig,0.0
+AI Sniper UICS,Rig,Rarity,1,0.0
+AI Sniper UICS,Rig,Rarity,2,0.5
+AI Sniper UICS,Rig,Rarity,3,1.0
+AI Sniper UICS,Rig,Rarity,4,0.0
+AI Sniper UICS,Pockets,Item,Items.Barter,5.0
+AI Sniper UICS,Pockets,Item,Items.Keys,0.1
+AI Sniper UICS,Pockets,Item,Items.Medical,1.0
+AI Sniper UICS,Pockets,Rarity,1,0.5
+AI Sniper UICS,Pockets,Rarity,2,0.5
+AI Sniper UICS,Pockets,Rarity,3,0.1
+AI Sniper UICS,Pockets,Rarity,4,0.0
 AI Sniper UICS,Helmet,Item,Items.Gear.Helmet,0.0
 AI Sniper UICS,Helmet,Rarity,1,0.0
 AI Sniper UICS,Helmet,Rarity,2,0.5
 AI Sniper UICS,Helmet,Rarity,3,1.0
 AI Sniper UICS,Helmet,Rarity,4,0.0
-AI Boss VLF,Helmet,Item,Items.Weapons.Lmg.RPK-74,1.0
-AI Boss VLF,Helmet,Rarity,1,0.0
-AI Boss VLF,Helmet,Rarity,2,0.0
-AI Boss VLF,Helmet,Rarity,3,0.0
-AI Boss VLF,Helmet,Rarity,4,5.0
-AI Boss VLF,Helmet,Rarity,4,1.0
-AI Boss VLF,Helmet,Item,Items.Currency.Cash,2.0
-AI Boss VLF,Helmet,Item,Items.Keys,0.2
-AI Boss VLF,Helmet,Item,Items.Currency.Marked Coin,2.0
-AI Boss VLF,Helmet,Rarity,4,1.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.AK-103,2.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.AK-104,3.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.AK-105,3.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.AK-74M,5.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.AKS-74,5.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.Norinco QBZ-97,8.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.STV-380,3.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.AKS-74U,3.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Smg.PP-19 Vitayz,3.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.FN FAL,0.2
-AI Guard VLF,Helmet,Item,Items.Weapons.SniperRifle.SKS,4.0
-AI Guard VLF,Helmet,Item,Items.Weapons.Rifle.AK-12,5.0
-AI Guard VLF,Helmet,Rarity,1,1.0
-AI Guard VLF,Helmet,Rarity,2,0.25
-AI Guard VLF,Helmet,Rarity,3,0.1
-AI Guard VLF,Helmet,Rarity,4,0.0
-AI Guard VLF,Helmet,Item,Items.Gear.Armored Rig,0.0
-AI Guard VLF,Helmet,Rarity,1,0.8
-AI Guard VLF,Helmet,Rarity,2,0.5
-AI Guard VLF,Helmet,Rarity,3,0.4
-AI Guard VLF,Helmet,Rarity,4,0.0
-AI Guard VLF,Helmet,Item,Items.Barter,5.0
-AI Guard VLF,Helmet,Item,Items.Keys,0.2
-AI Guard VLF,Helmet,Item,Items.Medical,1.5
-AI Guard VLF,Helmet,Rarity,1,0.5
-AI Guard VLF,Helmet,Rarity,2,1.0
-AI Guard VLF,Helmet,Rarity,3,0.5
-AI Guard VLF,Helmet,Rarity,4,0.0
-AI Guard VLF,Helmet,Item,Items.Gear.Backpack,0.0
-AI Guard VLF,Helmet,Rarity,1,1.0
-AI Guard VLF,Helmet,Rarity,2,0.5
-AI Guard VLF,Helmet,Rarity,3,0.0
-AI Guard VLF,Helmet,Rarity,4,0.0
+AI Boss VLF,Rifle 1,Item,Items.Weapons.Lmg.RPK-74,1.0
+AI Boss VLF,Rifle 1,Rarity,1,0.0
+AI Boss VLF,Rifle 1,Rarity,2,0.0
+AI Boss VLF,Rifle 1,Rarity,3,0.0
+AI Boss VLF,Rifle 1,Rarity,4,5.0
+AI Boss VLF,Rig,Rarity,4,1.0
+AI Boss VLF,Pockets,Item,Items.Currency.Cash,2.0
+AI Boss VLF,Pockets,Item,Items.Keys,0.2
+AI Boss VLF,Pockets,Item,Items.Currency.Marked Coin,2.0
+AI Boss VLF,Pockets,Rarity,4,1.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.AK-103,2.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.AK-104,3.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.AK-105,3.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.AK-74M,5.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.AKS-74,5.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.Norinco QBZ-97,8.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.STV-380,3.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.AKS-74U,3.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Smg.PP-19 Vitayz,3.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.FN FAL,0.2
+AI Guard VLF,Rifle 1,Item,Items.Weapons.SniperRifle.SKS,4.0
+AI Guard VLF,Rifle 1,Item,Items.Weapons.Rifle.AK-12,5.0
+AI Guard VLF,Rifle 1,Rarity,1,1.0
+AI Guard VLF,Rifle 1,Rarity,2,0.25
+AI Guard VLF,Rifle 1,Rarity,3,0.1
+AI Guard VLF,Rifle 1,Rarity,4,0.0
+AI Guard VLF,Rig,Item,Items.Gear.Armored Rig,0.0
+AI Guard VLF,Rig,Rarity,1,0.8
+AI Guard VLF,Rig,Rarity,2,0.5
+AI Guard VLF,Rig,Rarity,3,0.4
+AI Guard VLF,Rig,Rarity,4,0.0
+AI Guard VLF,Pockets,Item,Items.Barter,5.0
+AI Guard VLF,Pockets,Item,Items.Keys,0.2
+AI Guard VLF,Pockets,Item,Items.Medical,1.5
+AI Guard VLF,Pockets,Rarity,1,0.5
+AI Guard VLF,Pockets,Rarity,2,1.0
+AI Guard VLF,Pockets,Rarity,3,0.5
+AI Guard VLF,Pockets,Rarity,4,0.0
+AI Guard VLF,Backpack,Item,Items.Gear.Backpack,0.0
+AI Guard VLF,Backpack,Rarity,1,1.0
+AI Guard VLF,Backpack,Rarity,2,0.5
+AI Guard VLF,Backpack,Rarity,3,0.0
+AI Guard VLF,Backpack,Rarity,4,0.0
 AI Guard VLF,Helmet,Item,Items.Gear.Helmet,0.0
 AI Guard VLF,Helmet,Rarity,1,1.0
 AI Guard VLF,Helmet,Rarity,2,0.5
 AI Guard VLF,Helmet,Rarity,3,0.05
 AI Guard VLF,Helmet,Rarity,4,0.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.AK-103,2.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.AK-104,2.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.AK-105,2.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.AK-74M,3.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.AKS-74,2.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.Norinco QBZ-97,6.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.STV-380,6.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.AKS-74U,6.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Smg.PP-19 Vitayz,6.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.SniperRifle.SKS,4.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Shotgun.Benelli M2,1.0
-AI Patrol VLF A,Helmet,Item,Items.Weapons.Rifle.AK-12,2.0
-AI Patrol VLF A,Helmet,Rarity,1,1.0
-AI Patrol VLF A,Helmet,Rarity,2,0.2
-AI Patrol VLF A,Helmet,Rarity,3,0.0
-AI Patrol VLF A,Helmet,Rarity,4,0.0
-AI Patrol VLF A,Helmet,Item,Items.Gear.Plate Carrier,0.0
-AI Patrol VLF A,Helmet,Rarity,1,1.0
-AI Patrol VLF A,Helmet,Rarity,2,0.2
-AI Patrol VLF A,Helmet,Rarity,3,0.0
-AI Patrol VLF A,Helmet,Rarity,4,0.0
-AI Patrol VLF A,Helmet,Item,Items.Gear.Unarmored Rig,0.0
-AI Patrol VLF A,Helmet,Rarity,1,1.0
-AI Patrol VLF A,Helmet,Rarity,2,0.2
-AI Patrol VLF A,Helmet,Rarity,3,0.0
-AI Patrol VLF A,Helmet,Rarity,4,0.0
-AI Patrol VLF A,Helmet,Item,Items.Barter,5.0
-AI Patrol VLF A,Helmet,Item,Items.Keys,0.1
-AI Patrol VLF A,Helmet,Item,Items.Medical,1.5
-AI Patrol VLF A,Helmet,Rarity,1,1.0
-AI Patrol VLF A,Helmet,Rarity,2,0.2
-AI Patrol VLF A,Helmet,Rarity,3,0.0
-AI Patrol VLF A,Helmet,Rarity,4,0.0
-AI Patrol VLF A,Helmet,Item,Items.Gear.Backpack,0.0
-AI Patrol VLF A,Helmet,Rarity,1,1.0
-AI Patrol VLF A,Helmet,Rarity,2,0.2
-AI Patrol VLF A,Helmet,Rarity,3,0.0
-AI Patrol VLF A,Helmet,Rarity,4,0.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.AK-103,2.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.AK-104,2.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.AK-105,2.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.AK-74M,3.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.AKS-74,2.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.Norinco QBZ-97,6.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.STV-380,6.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.AKS-74U,6.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Smg.PP-19 Vitayz,6.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.SniperRifle.SKS,4.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Shotgun.Benelli M2,1.0
+AI Patrol VLF A,Rifle 1,Item,Items.Weapons.Rifle.AK-12,2.0
+AI Patrol VLF A,Rifle 1,Rarity,1,1.0
+AI Patrol VLF A,Rifle 1,Rarity,2,0.2
+AI Patrol VLF A,Rifle 1,Rarity,3,0.0
+AI Patrol VLF A,Rifle 1,Rarity,4,0.0
+AI Patrol VLF A,Plate Carrier,Item,Items.Gear.Plate Carrier,0.0
+AI Patrol VLF A,Plate Carrier,Rarity,1,1.0
+AI Patrol VLF A,Plate Carrier,Rarity,2,0.2
+AI Patrol VLF A,Plate Carrier,Rarity,3,0.0
+AI Patrol VLF A,Plate Carrier,Rarity,4,0.0
+AI Patrol VLF A,Rig,Item,Items.Gear.Unarmored Rig,0.0
+AI Patrol VLF A,Rig,Rarity,1,1.0
+AI Patrol VLF A,Rig,Rarity,2,0.2
+AI Patrol VLF A,Rig,Rarity,3,0.0
+AI Patrol VLF A,Rig,Rarity,4,0.0
+AI Patrol VLF A,Pockets,Item,Items.Barter,5.0
+AI Patrol VLF A,Pockets,Item,Items.Keys,0.1
+AI Patrol VLF A,Pockets,Item,Items.Medical,1.5
+AI Patrol VLF A,Pockets,Rarity,1,1.0
+AI Patrol VLF A,Pockets,Rarity,2,0.2
+AI Patrol VLF A,Pockets,Rarity,3,0.0
+AI Patrol VLF A,Pockets,Rarity,4,0.0
+AI Patrol VLF A,Backpack,Item,Items.Gear.Backpack,0.0
+AI Patrol VLF A,Backpack,Rarity,1,1.0
+AI Patrol VLF A,Backpack,Rarity,2,0.2
+AI Patrol VLF A,Backpack,Rarity,3,0.0
+AI Patrol VLF A,Backpack,Rarity,4,0.0
 AI Patrol VLF A,Helmet,Item,Items.Gear.Helmet,0.0
 AI Patrol VLF A,Helmet,Rarity,1,1.0
 AI Patrol VLF A,Helmet,Rarity,2,0.2
 AI Patrol VLF A,Helmet,Rarity,3,0.0
 AI Patrol VLF A,Helmet,Rarity,4,0.0
-AI Patrol VLF B,Helmet,Item,Items.Weapons.Pistol.Glock 19,1.0
-AI Patrol VLF B,Helmet,Item,Items.Weapons.Pistol.QSZ-92,2.0
-AI Patrol VLF B,Helmet,Rarity,1,1.0
-AI Patrol VLF B,Helmet,Rarity,2,0.2
-AI Patrol VLF B,Helmet,Rarity,3,0.0
-AI Patrol VLF B,Helmet,Rarity,4,0.0
-AI Patrol VLF B,Helmet,Item,Items.Gear.Plate Carrier,0.0
-AI Patrol VLF B,Helmet,Rarity,1,1.0
-AI Patrol VLF B,Helmet,Rarity,2,0.2
-AI Patrol VLF B,Helmet,Rarity,3,0.0
-AI Patrol VLF B,Helmet,Rarity,4,0.0
-AI Patrol VLF B,Helmet,Item,Items.Gear.Unarmored Rig,0.0
-AI Patrol VLF B,Helmet,Rarity,1,1.0
-AI Patrol VLF B,Helmet,Rarity,2,0.2
-AI Patrol VLF B,Helmet,Rarity,3,0.0
-AI Patrol VLF B,Helmet,Rarity,4,0.0
-AI Patrol VLF B,Helmet,Item,Items.Barter,5.0
-AI Patrol VLF B,Helmet,Item,Items.Keys,0.1
-AI Patrol VLF B,Helmet,Item,Items.Medical,1.5
-AI Patrol VLF B,Helmet,Rarity,1,1.0
-AI Patrol VLF B,Helmet,Rarity,2,0.2
-AI Patrol VLF B,Helmet,Rarity,3,0.0
-AI Patrol VLF B,Helmet,Rarity,4,0.0
-AI Patrol VLF B,Helmet,Item,Items.Gear.Backpack,0.0
-AI Patrol VLF B,Helmet,Rarity,1,1.0
-AI Patrol VLF B,Helmet,Rarity,2,0.2
-AI Patrol VLF B,Helmet,Rarity,3,0.0
-AI Patrol VLF B,Helmet,Rarity,4,0.0
+AI Patrol VLF B,Pistol,Item,Items.Weapons.Pistol.Glock 19,1.0
+AI Patrol VLF B,Pistol,Item,Items.Weapons.Pistol.QSZ-92,2.0
+AI Patrol VLF B,Pistol,Rarity,1,1.0
+AI Patrol VLF B,Pistol,Rarity,2,0.2
+AI Patrol VLF B,Pistol,Rarity,3,0.0
+AI Patrol VLF B,Pistol,Rarity,4,0.0
+AI Patrol VLF B,Plate Carrier,Item,Items.Gear.Plate Carrier,0.0
+AI Patrol VLF B,Plate Carrier,Rarity,1,1.0
+AI Patrol VLF B,Plate Carrier,Rarity,2,0.2
+AI Patrol VLF B,Plate Carrier,Rarity,3,0.0
+AI Patrol VLF B,Plate Carrier,Rarity,4,0.0
+AI Patrol VLF B,Rig,Item,Items.Gear.Unarmored Rig,0.0
+AI Patrol VLF B,Rig,Rarity,1,1.0
+AI Patrol VLF B,Rig,Rarity,2,0.2
+AI Patrol VLF B,Rig,Rarity,3,0.0
+AI Patrol VLF B,Rig,Rarity,4,0.0
+AI Patrol VLF B,Pockets,Item,Items.Barter,5.0
+AI Patrol VLF B,Pockets,Item,Items.Keys,0.1
+AI Patrol VLF B,Pockets,Item,Items.Medical,1.5
+AI Patrol VLF B,Pockets,Rarity,1,1.0
+AI Patrol VLF B,Pockets,Rarity,2,0.2
+AI Patrol VLF B,Pockets,Rarity,3,0.0
+AI Patrol VLF B,Pockets,Rarity,4,0.0
+AI Patrol VLF B,Backpack,Item,Items.Gear.Backpack,0.0
+AI Patrol VLF B,Backpack,Rarity,1,1.0
+AI Patrol VLF B,Backpack,Rarity,2,0.2
+AI Patrol VLF B,Backpack,Rarity,3,0.0
+AI Patrol VLF B,Backpack,Rarity,4,0.0
 AI Patrol VLF B,Helmet,Item,Items.Gear.Helmet,0.0
 AI Patrol VLF B,Helmet,Rarity,1,1.0
 AI Patrol VLF B,Helmet,Rarity,2,0.2
 AI Patrol VLF B,Helmet,Rarity,3,0.0
 AI Patrol VLF B,Helmet,Rarity,4,0.0
-AI Sniper VLF,Helmet,Item,Items.Weapons.Dmr.SVDS,5.0
-AI Sniper VLF,Helmet,Item,Items.Weapons.Rifle.FN FAL,0.75
-AI Sniper VLF,Helmet,Item,Items.Weapons.SniperRifle.SKS,4.0
-AI Sniper VLF,Helmet,Rarity,1,1.0
-AI Sniper VLF,Helmet,Rarity,2,0.2
-AI Sniper VLF,Helmet,Rarity,3,0.1
-AI Sniper VLF,Helmet,Rarity,4,0.0
-AI Sniper VLF,Helmet,Item,Items.Gear.Armored Rig,0.0
-AI Sniper VLF,Helmet,Rarity,1,0.0
-AI Sniper VLF,Helmet,Rarity,2,0.5
-AI Sniper VLF,Helmet,Rarity,3,1.0
-AI Sniper VLF,Helmet,Rarity,4,0.0
-AI Sniper VLF,Helmet,Item,Items.Barter,5.0
-AI Sniper VLF,Helmet,Item,Items.Keys,0.1
-AI Sniper VLF,Helmet,Item,Items.Medical,1.0
-AI Sniper VLF,Helmet,Rarity,1,0.5
-AI Sniper VLF,Helmet,Rarity,2,0.5
-AI Sniper VLF,Helmet,Rarity,3,0.1
-AI Sniper VLF,Helmet,Rarity,4,0.0
+AI Sniper VLF,Rifle 1,Item,Items.Weapons.Dmr.SVDS,5.0
+AI Sniper VLF,Rifle 1,Item,Items.Weapons.Rifle.FN FAL,0.75
+AI Sniper VLF,Rifle 1,Item,Items.Weapons.SniperRifle.SKS,4.0
+AI Sniper VLF,Rifle 1,Rarity,1,1.0
+AI Sniper VLF,Rifle 1,Rarity,2,0.2
+AI Sniper VLF,Rifle 1,Rarity,3,0.1
+AI Sniper VLF,Rifle 1,Rarity,4,0.0
+AI Sniper VLF,Rig,Item,Items.Gear.Armored Rig,0.0
+AI Sniper VLF,Rig,Rarity,1,0.0
+AI Sniper VLF,Rig,Rarity,2,0.5
+AI Sniper VLF,Rig,Rarity,3,1.0
+AI Sniper VLF,Rig,Rarity,4,0.0
+AI Sniper VLF,Pockets,Item,Items.Barter,5.0
+AI Sniper VLF,Pockets,Item,Items.Keys,0.1
+AI Sniper VLF,Pockets,Item,Items.Medical,1.0
+AI Sniper VLF,Pockets,Rarity,1,0.5
+AI Sniper VLF,Pockets,Rarity,2,0.5
+AI Sniper VLF,Pockets,Rarity,3,0.1
+AI Sniper VLF,Pockets,Rarity,4,0.0
 AI Sniper VLF,Helmet,Item,Items.Gear.Helmet,0.0
 AI Sniper VLF,Helmet,Rarity,1,0.0
 AI Sniper VLF,Helmet,Rarity,2,0.5
