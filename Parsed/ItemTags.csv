@@ -510,14 +510,14 @@ The_Slickster_Plate_Carrier,The Slickster Plate Carrier,Inventory.Items.Gear.Pla
 D3CRM_Unarmored_Rig,D3CRM Unarmored Rig,Inventory.Items.Gear.Unarmored Rig.D3CRM Unarmored Rig,Items.Gear.Unarmored Rig,Items,Gear,Unarmored Rig
 D3CRX_Unarmored_Rig,D3CRX Unarmored Rig,Inventory.Items.Gear.Unarmored Rig.D3CRX Unarmored Rig,Items.Gear.Unarmored Rig,Items,Gear,Unarmored Rig
 Vest_Virtus_Unarmored_Rig,Vest Virtus Unarmored Rig,Inventory.Items.Gear.Unarmored Rig.Vest Virtus Unarmored Rig,Items.Gear.Unarmored Rig,Items,Gear,Unarmored Rig
-Compact_Safe_Key,Compact Safe Key,Inventory.Items.Keys.Bunker.Compact Safe Key,Items.Keys.Bunker,Items,Keys,Bunker
-Elevator_Room,Elevator Room,Inventory.Items.Keys.Bunker.Elevator Room,Items.Keys.Bunker,Items,Keys,Bunker
-Extraction_Room_Key,Extraction Room Key,Inventory.Items.Keys.Bunker.Extraction Room Key,Items.Keys.Bunker,Items,Keys,Bunker
-General_Bunker_Key,General Bunker Key,Inventory.Items.Keys.Bunker.General Bunker Key,Items.Keys.Bunker,Items,Keys,Bunker
-Large_Safe_Key,Large Safe Key,Inventory.Items.Keys.Bunker.Large Safe Key,Items.Keys.Bunker,Items,Keys,Bunker
-Compact_Safe_Key,Compact Safe Key,Inventory.Items.Keys.Quarry.Compact Safe Key,Items.Keys.Quarry,Items,Keys,Quarry
-General_Key,General Key,Inventory.Items.Keys.Quarry.General Key,Items.Keys.Quarry,Items,Keys,Quarry
-Large_Safe_Key,Large Safe Key,Inventory.Items.Keys.Quarry.Large Safe Key,Items.Keys.Quarry,Items,Keys,Quarry
+Bunker_Compact_Safe_Key,Bunker Compact Safe Key,Inventory.Items.Keys.Bunker.Compact Safe Key,Items.Keys.Bunker,Items,Keys,Bunker
+Bunker_Elevator_Room_Key,Bunker Elevator Room,Inventory.Items.Keys.Bunker.Elevator Room,Items.Keys.Bunker,Items,Keys,Bunker
+Bunker_Extraction_Room_Key,Bunker Extraction Room Key,Inventory.Items.Keys.Bunker.Extraction Room Key,Items.Keys.Bunker,Items,Keys,Bunker
+Bunker_General_Key,Bunker General Key,Inventory.Items.Keys.Bunker.General Bunker Key,Items.Keys.Bunker,Items,Keys,Bunker
+Bunker_Large_Safe_Key,Bunker Large Safe Key,Inventory.Items.Keys.Bunker.Large Safe Key,Items.Keys.Bunker,Items,Keys,Bunker
+Quarry_Compact_Safe_Key,Quarry Compact Safe Key,Inventory.Items.Keys.Quarry.Compact Safe Key,Items.Keys.Quarry,Items,Keys,Quarry
+Quarry_General_Key,Quarry General Key,Inventory.Items.Keys.Quarry.General Key,Items.Keys.Quarry,Items,Keys,Quarry
+Quarry_Large_Safe_Key,Quarry Large Safe Key,Inventory.Items.Keys.Quarry.Large Safe Key,Items.Keys.Quarry,Items,Keys,Quarry
 Bandage,Bandage,Inventory.Items.Medical.Bandage,Items.Medical.Bandage,Inventory,Items,Medical
 Health_Injector,Health Injector,Inventory.Items.Medical.Health Injector,Items.Medical.Health Injector,Inventory,Items,Medical
 Painkiller,Painkiller,Inventory.Items.Medical.Painkiller,Items.Medical.Painkiller,Inventory,Items,Medical

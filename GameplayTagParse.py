@@ -50,6 +50,17 @@ for tag in TagList:
 
         ItemFName = ItemName.replace(" ","_")
         AmtofTags += 1
+        if ItemFName == "Elevator_Room":
+            ItemFName = ItemFName + "_Key"
+        if ItemFName == "General_Bunker_Key":
+            ItemFName = "Bunker_General_Key"
+            ItemName = "Bunker General Key"
+
+        if (ItemCategory == "Keys" and ItemFName != "Bunker_General_Key"):
+            ItemFName = ItemSubCategory + "_" + ItemFName
+            ItemName = ItemSubCategory + " " + ItemName
+
+
         Items.append({
             "FullTag" : tag,
             "ShortTag": AbvTag,
